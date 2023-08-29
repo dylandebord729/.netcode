@@ -1,0 +1,6 @@
+C:\Users\dylan\source\repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net7.0-windows\CalculateLetterGrade.frmCalculateGrade.resources
+C:\Users\dylan\source\repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net7.0-windows\CalculateLetterGrade.csproj.GenerateResource.cache
+C:\Users\dylan\source\repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net7.0-windows\CalculateLetterGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\source\repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net7.0-windows\CalculateLetterGrade.AssemblyInfoInputs.cache
+C:\Users\dylan\source\repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net7.0-windows\CalculateLetterGrade.AssemblyInfo.cs
+C:\Users\dylan\source\repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net7.0-windows\CalculateLetterGrade.csproj.CoreCompileInputs.cache
