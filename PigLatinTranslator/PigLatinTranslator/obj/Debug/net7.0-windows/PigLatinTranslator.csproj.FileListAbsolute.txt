@@ -1,0 +1,16 @@
+C:\Users\dylan\source\repos\PigLatinTranslator\PigLatinTranslator\bin\Debug\net7.0-windows\PigLatinTranslator.exe
+C:\Users\dylan\source\repos\PigLatinTranslator\PigLatinTranslator\bin\Debug\net7.0-windows\PigLatinTranslator.deps.json
+C:\Users\dylan\source\repos\PigLatinTranslator\PigLatinTranslator\bin\Debug\net7.0-windows\PigLatinTranslator.runtimeconfig.json
+C:\Users\dylan\source\repos\PigLatinTranslator\PigLatinTranslator\bin\Debug\net7.0-windows\PigLatinTranslator.dll
+C:\Users\dylan\source\repos\PigLatinTranslator\PigLatinTranslator\bin\Debug\net7.0-windows\PigLatinTranslator.pdb
+C:\Users\dylan\source\repos\PigLatinTranslator\PigLatinTranslator\obj\Debug\net7.0-windows\PigLatinTranslator.Form1.resources
+C:\Users\dylan\source\repos\PigLatinTranslator\PigLatinTranslator\obj\Debug\net7.0-windows\PigLatinTranslator.csproj.GenerateResource.cache
+C:\Users\dylan\source\repos\PigLatinTranslator\PigLatinTranslator\obj\Debug\net7.0-windows\PigLatinTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\source\repos\PigLatinTranslator\PigLatinTranslator\obj\Debug\net7.0-windows\PigLatinTranslator.AssemblyInfoInputs.cache
+C:\Users\dylan\source\repos\PigLatinTranslator\PigLatinTranslator\obj\Debug\net7.0-windows\PigLatinTranslator.AssemblyInfo.cs
+C:\Users\dylan\source\repos\PigLatinTranslator\PigLatinTranslator\obj\Debug\net7.0-windows\PigLatinTranslator.csproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\PigLatinTranslator\PigLatinTranslator\obj\Debug\net7.0-windows\PigLatinTranslator.dll
+C:\Users\dylan\source\repos\PigLatinTranslator\PigLatinTranslator\obj\Debug\net7.0-windows\refint\PigLatinTranslator.dll
+C:\Users\dylan\source\repos\PigLatinTranslator\PigLatinTranslator\obj\Debug\net7.0-windows\PigLatinTranslator.pdb
+C:\Users\dylan\source\repos\PigLatinTranslator\PigLatinTranslator\obj\Debug\net7.0-windows\PigLatinTranslator.genruntimeconfig.cache
+C:\Users\dylan\source\repos\PigLatinTranslator\PigLatinTranslator\obj\Debug\net7.0-windows\ref\PigLatinTranslator.dll
