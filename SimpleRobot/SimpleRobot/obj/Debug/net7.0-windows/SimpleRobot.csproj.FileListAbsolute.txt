@@ -1,0 +1,16 @@
+C:\Users\dylan\source\repos\SimpleRobot\SimpleRobot\bin\Debug\net7.0-windows\SimpleRobot.exe
+C:\Users\dylan\source\repos\SimpleRobot\SimpleRobot\bin\Debug\net7.0-windows\SimpleRobot.deps.json
+C:\Users\dylan\source\repos\SimpleRobot\SimpleRobot\bin\Debug\net7.0-windows\SimpleRobot.runtimeconfig.json
+C:\Users\dylan\source\repos\SimpleRobot\SimpleRobot\bin\Debug\net7.0-windows\SimpleRobot.dll
+C:\Users\dylan\source\repos\SimpleRobot\SimpleRobot\bin\Debug\net7.0-windows\SimpleRobot.pdb
+C:\Users\dylan\source\repos\SimpleRobot\SimpleRobot\obj\Debug\net7.0-windows\SimpleRobot.Form1.resources
+C:\Users\dylan\source\repos\SimpleRobot\SimpleRobot\obj\Debug\net7.0-windows\SimpleRobot.csproj.GenerateResource.cache
+C:\Users\dylan\source\repos\SimpleRobot\SimpleRobot\obj\Debug\net7.0-windows\SimpleRobot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\source\repos\SimpleRobot\SimpleRobot\obj\Debug\net7.0-windows\SimpleRobot.AssemblyInfoInputs.cache
+C:\Users\dylan\source\repos\SimpleRobot\SimpleRobot\obj\Debug\net7.0-windows\SimpleRobot.AssemblyInfo.cs
+C:\Users\dylan\source\repos\SimpleRobot\SimpleRobot\obj\Debug\net7.0-windows\SimpleRobot.csproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\SimpleRobot\SimpleRobot\obj\Debug\net7.0-windows\SimpleRobot.dll
+C:\Users\dylan\source\repos\SimpleRobot\SimpleRobot\obj\Debug\net7.0-windows\refint\SimpleRobot.dll
+C:\Users\dylan\source\repos\SimpleRobot\SimpleRobot\obj\Debug\net7.0-windows\SimpleRobot.pdb
+C:\Users\dylan\source\repos\SimpleRobot\SimpleRobot\obj\Debug\net7.0-windows\SimpleRobot.genruntimeconfig.cache
+C:\Users\dylan\source\repos\SimpleRobot\SimpleRobot\obj\Debug\net7.0-windows\ref\SimpleRobot.dll
